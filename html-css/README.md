@@ -1,0 +1,1 @@
+Example html and css pages for simple blog
