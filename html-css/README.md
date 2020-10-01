@@ -1,1 +1,1 @@
-Example html and css pages for simple blog
+Example of html and css pages for simple blog
